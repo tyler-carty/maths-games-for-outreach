@@ -1,0 +1,4 @@
+image: /Mental Matchup/main_image.png
+game: /Mental Matchup/main.exe
+tags: geometry
+scores: /Mental Matchup/Scores.csv

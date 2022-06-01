@@ -1,0 +1,4 @@
+image: /Parking Peril/main_image.png
+game: /Parking Peril/main.exe
+tags: geometry
+scores: /Parking Peril/Scores.csv
